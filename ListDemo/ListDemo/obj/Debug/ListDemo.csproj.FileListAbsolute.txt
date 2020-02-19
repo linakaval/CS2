@@ -1,0 +1,6 @@
+M:\CS2 Q1\ListDemo\ListDemo\bin\Debug\ListDemo.exe.config
+M:\CS2 Q1\ListDemo\ListDemo\bin\Debug\ListDemo.exe
+M:\CS2 Q1\ListDemo\ListDemo\bin\Debug\ListDemo.pdb
+M:\CS2 Q1\ListDemo\ListDemo\obj\Debug\ListDemo.csprojResolveAssemblyReference.cache
+M:\CS2 Q1\ListDemo\ListDemo\obj\Debug\ListDemo.exe
+M:\CS2 Q1\ListDemo\ListDemo\obj\Debug\ListDemo.pdb

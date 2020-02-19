@@ -1,0 +1,6 @@
+M:\CS2 Q1\Basics\2Switch\bin\Debug\2Switch.exe.config
+M:\CS2 Q1\Basics\2Switch\bin\Debug\2Switch.exe
+M:\CS2 Q1\Basics\2Switch\bin\Debug\2Switch.pdb
+M:\CS2 Q1\Basics\2Switch\obj\Debug\2Switch.csprojResolveAssemblyReference.cache
+M:\CS2 Q1\Basics\2Switch\obj\Debug\2Switch.exe
+M:\CS2 Q1\Basics\2Switch\obj\Debug\2Switch.pdb

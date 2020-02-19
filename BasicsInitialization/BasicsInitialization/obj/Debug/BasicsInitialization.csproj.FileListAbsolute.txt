@@ -1,0 +1,6 @@
+M:\CS2 Q1\BasicsInitialization\BasicsInitialization\bin\Debug\BasicsInitialization.exe.config
+M:\CS2 Q1\BasicsInitialization\BasicsInitialization\bin\Debug\BasicsInitialization.exe
+M:\CS2 Q1\BasicsInitialization\BasicsInitialization\bin\Debug\BasicsInitialization.pdb
+M:\CS2 Q1\BasicsInitialization\BasicsInitialization\obj\Debug\BasicsInitialization.csprojResolveAssemblyReference.cache
+M:\CS2 Q1\BasicsInitialization\BasicsInitialization\obj\Debug\BasicsInitialization.exe
+M:\CS2 Q1\BasicsInitialization\BasicsInitialization\obj\Debug\BasicsInitialization.pdb

@@ -1,0 +1,6 @@
+M:\CS2 Q1\UnitTestDemo\UnitTestDemo\bin\Debug\UnitTestDemo.exe.config
+M:\CS2 Q1\UnitTestDemo\UnitTestDemo\bin\Debug\UnitTestDemo.exe
+M:\CS2 Q1\UnitTestDemo\UnitTestDemo\bin\Debug\UnitTestDemo.pdb
+M:\CS2 Q1\UnitTestDemo\UnitTestDemo\obj\Debug\UnitTestDemo.csprojResolveAssemblyReference.cache
+M:\CS2 Q1\UnitTestDemo\UnitTestDemo\obj\Debug\UnitTestDemo.exe
+M:\CS2 Q1\UnitTestDemo\UnitTestDemo\obj\Debug\UnitTestDemo.pdb

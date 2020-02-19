@@ -1,0 +1,5 @@
+M:\CS2 Q1\Basics\4MultidimensionalArray\bin\Debug\4MultidimensionalArray.exe.config
+M:\CS2 Q1\Basics\4MultidimensionalArray\bin\Debug\4MultidimensionalArray.exe
+M:\CS2 Q1\Basics\4MultidimensionalArray\bin\Debug\4MultidimensionalArray.pdb
+M:\CS2 Q1\Basics\4MultidimensionalArray\obj\Debug\4MultidimensionalArray.exe
+M:\CS2 Q1\Basics\4MultidimensionalArray\obj\Debug\4MultidimensionalArray.pdb

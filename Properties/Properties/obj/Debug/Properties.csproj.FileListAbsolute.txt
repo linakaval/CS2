@@ -1,0 +1,6 @@
+M:\CS2 Q1\Properties\Properties\bin\Debug\Properties.exe.config
+M:\CS2 Q1\Properties\Properties\bin\Debug\Properties.exe
+M:\CS2 Q1\Properties\Properties\bin\Debug\Properties.pdb
+M:\CS2 Q1\Properties\Properties\obj\Debug\Properties.csprojResolveAssemblyReference.cache
+M:\CS2 Q1\Properties\Properties\obj\Debug\Properties.exe
+M:\CS2 Q1\Properties\Properties\obj\Debug\Properties.pdb

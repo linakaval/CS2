@@ -1,0 +1,6 @@
+M:\CS2 Q1\Basics\1LoopsAndConditionals\bin\Debug\1LoopsAndConditionals.exe.config
+M:\CS2 Q1\Basics\1LoopsAndConditionals\bin\Debug\1LoopsAndConditionals.exe
+M:\CS2 Q1\Basics\1LoopsAndConditionals\bin\Debug\1LoopsAndConditionals.pdb
+M:\CS2 Q1\Basics\1LoopsAndConditionals\obj\Debug\1LoopsAndConditionals.csprojResolveAssemblyReference.cache
+M:\CS2 Q1\Basics\1LoopsAndConditionals\obj\Debug\1LoopsAndConditionals.exe
+M:\CS2 Q1\Basics\1LoopsAndConditionals\obj\Debug\1LoopsAndConditionals.pdb

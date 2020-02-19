@@ -1,0 +1,6 @@
+M:\CS2 Q1\BasicsStatic\BasicsStatic\bin\Debug\BasicsStatic.exe.config
+M:\CS2 Q1\BasicsStatic\BasicsStatic\bin\Debug\BasicsStatic.exe
+M:\CS2 Q1\BasicsStatic\BasicsStatic\bin\Debug\BasicsStatic.pdb
+M:\CS2 Q1\BasicsStatic\BasicsStatic\obj\Debug\BasicsStatic.csprojResolveAssemblyReference.cache
+M:\CS2 Q1\BasicsStatic\BasicsStatic\obj\Debug\BasicsStatic.exe
+M:\CS2 Q1\BasicsStatic\BasicsStatic\obj\Debug\BasicsStatic.pdb

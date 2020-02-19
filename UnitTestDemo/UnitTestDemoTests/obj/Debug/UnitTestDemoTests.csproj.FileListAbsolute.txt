@@ -1,0 +1,8 @@
+M:\CS2 Q1\UnitTestDemo\UnitTestDemoTests\bin\Debug\UnitTestDemoTests.dll
+M:\CS2 Q1\UnitTestDemo\UnitTestDemoTests\bin\Debug\UnitTestDemoTests.pdb
+M:\CS2 Q1\UnitTestDemo\UnitTestDemoTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+M:\CS2 Q1\UnitTestDemo\UnitTestDemoTests\bin\Debug\UnitTestDemo.exe
+M:\CS2 Q1\UnitTestDemo\UnitTestDemoTests\bin\Debug\UnitTestDemo.pdb
+M:\CS2 Q1\UnitTestDemo\UnitTestDemoTests\obj\Debug\UnitTestDemoTests.csprojResolveAssemblyReference.cache
+M:\CS2 Q1\UnitTestDemo\UnitTestDemoTests\obj\Debug\UnitTestDemoTests.dll
+M:\CS2 Q1\UnitTestDemo\UnitTestDemoTests\obj\Debug\UnitTestDemoTests.pdb

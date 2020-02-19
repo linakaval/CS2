@@ -1,0 +1,9 @@
+M:\CS2 Q1\SoundImageDemo\SoundImageDemo\bin\Debug\SoundImageDemo.exe.config
+M:\CS2 Q1\SoundImageDemo\SoundImageDemo\bin\Debug\SoundImageDemo.exe
+M:\CS2 Q1\SoundImageDemo\SoundImageDemo\bin\Debug\SoundImageDemo.pdb
+M:\CS2 Q1\SoundImageDemo\SoundImageDemo\obj\Debug\SoundImageDemo.csprojResolveAssemblyReference.cache
+M:\CS2 Q1\SoundImageDemo\SoundImageDemo\obj\Debug\SoundImageDemo.Form1.resources
+M:\CS2 Q1\SoundImageDemo\SoundImageDemo\obj\Debug\SoundImageDemo.Properties.Resources.resources
+M:\CS2 Q1\SoundImageDemo\SoundImageDemo\obj\Debug\SoundImageDemo.csproj.GenerateResource.Cache
+M:\CS2 Q1\SoundImageDemo\SoundImageDemo\obj\Debug\SoundImageDemo.exe
+M:\CS2 Q1\SoundImageDemo\SoundImageDemo\obj\Debug\SoundImageDemo.pdb

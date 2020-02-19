@@ -1,0 +1,9 @@
+M:\CS2 Q1\MouseKeyboardDemo\MouseKeyboardDemo\bin\Debug\MouseKeyboardDemo.exe.config
+M:\CS2 Q1\MouseKeyboardDemo\MouseKeyboardDemo\bin\Debug\MouseKeyboardDemo.exe
+M:\CS2 Q1\MouseKeyboardDemo\MouseKeyboardDemo\bin\Debug\MouseKeyboardDemo.pdb
+M:\CS2 Q1\MouseKeyboardDemo\MouseKeyboardDemo\obj\Debug\MouseKeyboardDemo.csprojResolveAssemblyReference.cache
+M:\CS2 Q1\MouseKeyboardDemo\MouseKeyboardDemo\obj\Debug\MouseKeyboardDemo.Form1.resources
+M:\CS2 Q1\MouseKeyboardDemo\MouseKeyboardDemo\obj\Debug\MouseKeyboardDemo.Properties.Resources.resources
+M:\CS2 Q1\MouseKeyboardDemo\MouseKeyboardDemo\obj\Debug\MouseKeyboardDemo.csproj.GenerateResource.Cache
+M:\CS2 Q1\MouseKeyboardDemo\MouseKeyboardDemo\obj\Debug\MouseKeyboardDemo.exe
+M:\CS2 Q1\MouseKeyboardDemo\MouseKeyboardDemo\obj\Debug\MouseKeyboardDemo.pdb

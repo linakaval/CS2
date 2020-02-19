@@ -1,0 +1,6 @@
+M:\CS2 Q1\Basics\3Array\bin\Debug\3Array.exe.config
+M:\CS2 Q1\Basics\3Array\bin\Debug\3Array.exe
+M:\CS2 Q1\Basics\3Array\bin\Debug\3Array.pdb
+M:\CS2 Q1\Basics\3Array\obj\Debug\3Array.csprojResolveAssemblyReference.cache
+M:\CS2 Q1\Basics\3Array\obj\Debug\3Array.exe
+M:\CS2 Q1\Basics\3Array\obj\Debug\3Array.pdb

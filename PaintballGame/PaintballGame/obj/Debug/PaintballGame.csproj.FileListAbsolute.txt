@@ -1,0 +1,9 @@
+M:\CS2 Q1\PaintballGame\PaintballGame\bin\Debug\PaintballGame.exe.config
+M:\CS2 Q1\PaintballGame\PaintballGame\obj\Debug\PaintballGame.csprojResolveAssemblyReference.cache
+M:\CS2 Q1\PaintballGame\PaintballGame\obj\Debug\PaintballGame.Form1.resources
+M:\CS2 Q1\PaintballGame\PaintballGame\obj\Debug\PaintballGame.Properties.Resources.resources
+M:\CS2 Q1\PaintballGame\PaintballGame\obj\Debug\PaintballGame.csproj.GenerateResource.Cache
+M:\CS2 Q1\PaintballGame\PaintballGame\bin\Debug\PaintballGame.exe
+M:\CS2 Q1\PaintballGame\PaintballGame\bin\Debug\PaintballGame.pdb
+M:\CS2 Q1\PaintballGame\PaintballGame\obj\Debug\PaintballGame.exe
+M:\CS2 Q1\PaintballGame\PaintballGame\obj\Debug\PaintballGame.pdb
